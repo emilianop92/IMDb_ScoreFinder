@@ -5,7 +5,7 @@ import re
 
 
 api = 'http://www.omdbapi.com/'
-key = '142a4256'
+key = '#######'
 
 
 def ratingsSearch(website, domain):
